@@ -12,7 +12,7 @@ This widget fetches events from data source Firebase/APIS and shows them on the 
   Facial Recognition for security purposes
   1. Flutter camera plugin for taking picture
   2. (bigdatacorp) for matching faces
-<img src="https://github.com/tanzeelRehman/small_widgets_project/blob/main/face_match.gif" width="200" height="600">
+<img src="https://github.com/tanzeelRehman/small_widgets_project/blob/main/face_match.gif" width="350" height="600">
      
 - Intelligent signature textfield
   An intelligent signature pad captures user signatures and uploads them to the server. It detects network status: if online, it uploads immediately; if offline, it saves the signature locally and uploads when 
