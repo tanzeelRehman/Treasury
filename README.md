@@ -17,6 +17,8 @@ This widget fetches events from data source Firebase/APIS and shows them on the 
 - Intelligent signature textfield
   An intelligent signature pad captures user signatures and uploads them to the server. It detects network status: if online, it uploads immediately; if offline, it saves the signature locally and uploads when 
   the device reconnects and then clears the local cache for a seamless experience
+## Check out the video link!
+https://drive.google.com/file/d/1VlwgynlxKTqeWdeqXK0s9js6t2WPZ7qM/view?usp=sharing
 
 - Loyalty Points widget
   A custom-made widget in Flutter to show users how many points they have achieved, This is totally dynamic and you can set any point range.
