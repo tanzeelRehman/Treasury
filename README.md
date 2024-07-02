@@ -20,6 +20,7 @@ This widget fetches events from data source Firebase/APIS and shows them on the 
 
 - Loyalty Points widget
   A custom-made widget in Flutter to show users how many points they have achieved, This is totally dynamic and you can set any point range.
+  <img src="https://github.com/tanzeelRehman/small_widgets_project/blob/main/loyality_points.png" width="350" height="600">
 
 - Wifi widget
   A custom-made widget that shows all the wifi info around you.
