@@ -6,7 +6,7 @@ custom widgets for my flutter-flow orders on Fiver.
 
 - Calendar Widget
 This widget fetches events from data source Firebase/APIS and shows them on the calendar
-<img src="https://github.com/tanzeelRehman/small_widgets_project/blob/main/calender.jpg" width="300" height="300">
+<img src="https://github.com/tanzeelRehman/small_widgets_project/blob/main/calender.jpg" width="500" height="300">
 
 - Camera Widget
   Facial Recognition for security purposes
