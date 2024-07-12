@@ -17,7 +17,8 @@
   A custom-made widget that shows all the wifi info around you.
   - video link!: https://drive.google.com/file/d/1RhEsSWVABq-zYEqutyCBnniWJLUizSA2/view?usp=sharing
 
-  # Implementation of Flutter Fl chart package, the data source is Firebase
+  # Flutter Fl chart package, 
+   the data source is Firebase
   - video link!: https://drive.google.com/file/d/1ZNq0gTxDrGmDOZSdz6ZCZQce5l3K3P7A/view?usp=sharing
 
   # Picture Mark widget
