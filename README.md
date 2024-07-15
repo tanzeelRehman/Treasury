@@ -1,6 +1,6 @@
-## CUSTOM COMPONENTS FOR FLUTTERFLOW
+## CUSTOM COMPONENTS AND SERVICES
 
-  custom widgets/Components for flutter-flow.
+  custom reusable widgets/Components and services for flutter-flow and flutter.
 
   # Camera Widget
   Facial Recognition for security purposes
