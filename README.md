@@ -13,6 +13,10 @@
   the device reconnects and then clears the local cache for a seamless experience
   - video link!: https://drive.google.com/file/d/1VlwgynlxKTqeWdeqXK0s9js6t2WPZ7qM/view?usp=sharing
 
+  # Human liveliness
+  A service that checks for human liveliness by understanding face gestures.
+  - video link!: https://drive.google.com/file/d/1xTOSsaP3QnytMdZmYOlZ4LEG3doCSue4/view?usp=sharing
+
   # Wifi widget
   A custom-made widget that shows all the wifi info around you.
   - video link!: https://drive.google.com/file/d/1RhEsSWVABq-zYEqutyCBnniWJLUizSA2/view?usp=sharing
@@ -24,8 +28,4 @@
   # Picture Mark widget
   A widget that lets the user draw any text or a shape on a picture and then upload that modified picture on the database, Firebase is used in this example
   - video link!: https://drive.google.com/file/d/10pYwSGOsqMXWx9MN_7gOhZh7AhmWGzUw/view?usp=sharing 
-
-
-- Video upload widget
-  A custom-made widget that asks specific questions records user responses and then uploads it to the server
 
