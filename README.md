@@ -16,6 +16,10 @@
   # Human liveliness
   A service that checks for human liveliness by understanding face gestures.
   - video link!: https://drive.google.com/file/d/1xTOSsaP3QnytMdZmYOlZ4LEG3doCSue4/view?usp=sharing
+    
+  # Background Service
+  Flutter background service which works on Android and IOS, (Even app is in a terminated state)
+  - video link!: https://drive.google.com/file/d/1hkT4WWcE-uILdFNC5wF6DM0Q1fPvFVCg/view?usp=sharing
 
   # Wifi widget
   A custom-made widget that shows all the wifi info around you.
